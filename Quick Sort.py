@@ -1,3 +1,4 @@
+# mark,some bugs
 def quick_sort(array, l, r):
     if l < r:
         q = partition(array, l, r)
